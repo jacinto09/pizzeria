@@ -358,6 +358,10 @@ iframe{
         width: 100%;
         height: 100%;
     }
+    .h1donde{
+        font-size: 1.5rem;
+        padding-left: 10%;
+    }
 
 }
 
